@@ -29,7 +29,7 @@ This is a simple weather application built with React functional components. It 
 
 Clone the repository:
 
-git clone https://github.com/your-repo/weather-app.git
+git clone https://github.com/Navneetkumarkushwaha/WeatherApp-ReactJS.git
 
 Navigate to the project directory:
 
